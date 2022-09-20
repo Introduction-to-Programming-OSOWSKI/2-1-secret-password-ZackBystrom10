@@ -4,4 +4,4 @@ def password(p):
     else:
         return "ACCESS DENIED"
 
-print(password("potato"))
+print(password("Knights19"))
